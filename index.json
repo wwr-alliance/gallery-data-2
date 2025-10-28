@@ -1,4 +1,14 @@
 {
-  "images": [],
-  "created_at": "2025-10-28T05:37:09Z"
+  "images": [
+    {
+      "filename": "image0.png",
+      "filepath": "images/image0.png",
+      "timestamp": "2025-10-28T04:36:18Z",
+      "author": "Fuma",
+      "width": 2048,
+      "height": 1152,
+      "aspect_ratio": 1.778
+    }
+  ],
+  "created_at": "2025-10-28T05:46:51Z"
 }
